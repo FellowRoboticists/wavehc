@@ -115,3 +115,13 @@ WaveHC.h  - Buffer size, contiguous file optimization, enable software
 WavePinDefs.h - Change default pin definitions. Save pin 5.
 
 SdReader.h - Change default SPI bus speed.
+
+COPYRIGHT
+
+Contains material with the following copyrights:
+
+Copyright (C) 2009 by William Greiman
+Copyright (c) 2009 John Resig
+Copyright (c) 2009, The Dojo Foundation
+Copyright (c) 2008 Ariel Flesler - aflesler(at)gmail(dot)com
+Copyright (c) 2006, 2008 Junio C Hamano
